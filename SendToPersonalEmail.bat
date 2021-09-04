@@ -1,0 +1,5 @@
+@echo off
+cls
+*FILE PATH TO .exe CREATED WITH PYINSTALLER* %* #LEAVE THE %* ALONE
+
+
