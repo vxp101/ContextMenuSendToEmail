@@ -17,10 +17,7 @@ from mimetypes import guess_type as guess_mime_type
 SCOPES = ['https://mail.google.com/']
 our_email = 'me'
 files = []
-server.add_to_files("quick.py")
-server.add_to_files("quickstart.py")
 
-print(server.read_files())
 
 def gmail_authenticate():
     creds = None
@@ -91,7 +88,7 @@ for i in sys.argv:
     if i != sys.argv[0]:
         files.append(i)
 
-print(sys.argv, "System Arguments")
-print(files, "Files")
+
 send_message(service, "me", "From Computer", 
                 "Important File", [*files])
+
