@@ -59,3 +59,6 @@ Select a files and right click then goto Send To and select the .bat file
 It will ask you to authenticate and you'll only have to do this once
 
 All the selected files will be sent to your email
+
+**CREATE CONTEXT MENU OPTION**
+https://answers.microsoft.com/en-us/windows/forum/all/how-to-add-an-option-in-windows-11-main-context/a6c6ba72-e17b-44d5-b957-46af79b47b60 
