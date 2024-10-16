@@ -1,6 +1,6 @@
 # ContextMenuSendToEmail
 
-To start off copy the file path you plan to use and replace *FILE PATH GOES HERE* with said file path
+To start off copy the file path you plan to use and replace *FILE PATH GOES HERE* with said file path inside of .bat
 
 Use PyInstaller to turn script into a .exe 
 
