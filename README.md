@@ -42,7 +42,7 @@ Input the required information
 
 Click Save and Continue
 
---- I Wanted To Do This Tutorial Step By Step But An Error Is Occurs When I Click Save and Continue. Will Update When Fixed. ---
+--- I Wanted To Do This Tutorial Step By Step But An Error Occurs When I Click Save and Continue. Will Update When Fixed. ---
 
 In scopes and https://mail.google.com/ as one of the scopes.
 
